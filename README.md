@@ -1,6 +1,6 @@
 # PAKTUM
 
-*Private Agent Kernel for Trustworthy Unified Mesh*
+*Polymorphic Agent Kernel for Trustworthy Unanimous Mesh*
 
 **TODO: Add description**
 
