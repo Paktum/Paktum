@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"1yib.svelte-bundle",
+			"jakebecker.elixir-ls",
+			"numso.prettier-standard-vscode",
+		]
+	}
+}
