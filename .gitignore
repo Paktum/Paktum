@@ -1,5 +1,4 @@
-# Created by https://www.toptal.com/developers/gitignore/api/windows,macos,linux,visualstudiocode,elixir,python,svelte,node,web
-# Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,linux,visualstudiocode,elixir,python,svelte,node,web
+# Created by https://www.toptal.com/developers/gitignore/api/windows,macos,linux,visualstudiocode,elixir,python,svelte,node
 
 ### Elixir ###
 /_build
@@ -398,21 +397,6 @@ package
 .history
 .ionide
 
-### Web ###
-*.asp
-*.cer
-*.csr
-*.css
-*.htm
-*.html
-*.js
-*.jsp
-*.php
-*.rss
-*.wasm
-*.wat
-*.xhtml
-
 ### Windows ###
 # Windows thumbnail cache files
 Thumbs.db
@@ -439,4 +423,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/windows,macos,linux,visualstudiocode,elixir,python,svelte,node,web
+# End of https://www.toptal.com/developers/gitignore/api/windows,macos,linux,visualstudiocode,elixir,python,svelte,node
